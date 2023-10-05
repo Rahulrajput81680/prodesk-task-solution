@@ -1,0 +1,277 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+  color: #6e6e6e;
+  font-family: Roboto, sans-serif;
+  font-size: 1rem; 
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: -0.025em;
+  text-decoration: none;
+}
+.global_container_ {
+  background: url(./images/background.jpg) no-repeat;
+}
+.col {
+  padding: 14px 216px;
+}
+.row {
+  position: relative;
+}
+.layer-2 {
+  float: left;
+}
+  .row-11 > * {
+    float: left;
+    margin: 0 233px 0 0;
+  }
+  .row-11 > *:last-child {
+    margin-right: 0 !important;
+  }
+ 
+  .ellipse-1 {
+    height: 72px;
+    left: 50%;
+    position: absolute;
+    top: 884px;
+    width: 72px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #ffffff;
+    -webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.18);
+    box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.18); 
+    margin-left: -34px;
+  }
+  .ellipse-2-holder {
+    left: 50%;
+    padding: 26px 0 24px;
+    position: absolute;
+    top: 874px;
+    width: 91px;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    margin-left: -44px;
+  }
+  .rectangle-1-holder {
+    margin: 0 auto;
+    padding: 5px 0 19px;
+    position: relative;
+    width: 19px;
+    border: 2px solid #2d9ff1; 
+    -webkit-border-radius: 9.5px;
+    -moz-border-radius: 9.5px;
+    border-radius: 9.5px;
+  }
+  
+  .group-4 {
+    padding: 322px 15px 27px;
+  }
+  
+  .rounded-rectangle-2-holder {
+    margin: 44px 5px 0;
+    min-height: 52px;
+    padding: 13px 8px;
+    position: relative;
+    border: 1px solid #c5c5c5; 
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #ffffff;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box; 
+  }
+
+  .rounded-rectangle-2-copy-holder {
+    margin: 18px 5px 0;
+    min-height: 52px;
+    padding: 13px 12px;
+    position: relative;
+    border: 1px solid #c5c5c5; 
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #ffffff;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box; 
+  }
+  .rounded-rectangle-2-copy-2-holder {
+    margin: 20px 5px 0;
+    min-height: 52px;
+    padding: 15px 11px 18px;
+    position: relative;
+    border: 1px solid #c5c5c5; 
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #ffffff;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box; 
+  }
+  .layer-42 {
+    float: left;
+    margin: 1px 10px 0 1px;
+  }
+  .text-27 {
+    color: #aaaaaa;
+    font-family: Raleway, sans-serif;
+  }
+  .rounded-rectangle-2-copy-3-holder {
+    margin: 22px 5px 0;
+    min-height: 120px;
+    padding: 13px 11px;
+    position: relative;
+    border: 1px solid #c5c5c5; /*stroke*/
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #ffffff;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box; 
+  }
+  
+  .rounded-rectangle-1-copy-holder {
+    margin: 20px 0 0 10px;
+    min-height: 43px;
+    padding: 0 23px;
+    position: relative;
+    width: 180px;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 21.5px;
+    -moz-border-radius: 21.5px;
+    border-radius: 21.5px;
+    background: #2d9ff1;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box; 
+    font-size: 1.125rem; 
+    font-weight: bold;
+    line-height: 43px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  .row-3 {
+    margin: 2929px auto 0;
+    position: relative;
+    width: 1170px;
+  }
+  .text-31 {
+    float: left;
+    margin: 13px 0 0;
+    width: 350px;
+    color: #dbdbdb;
+    font-size: 0.875rem; 
+    letter-spacing: 0;
+  }
+  .social {
+    float: right;
+    position: relative;
+    width: 229px;
+  }
+  .social > * {
+    float: left;
+    margin: 0 12.55px 0 0;
+  }
+  .social > *:last-child {
+    margin-right: 0 !important;
+  }
+  .ellipse-1-holder {
+    padding: 6px 0 8px;
+    position: relative;
+    width: 36px;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 17.75px;
+    -moz-border-radius: 17.75px;
+    border-radius: 17.75px;
+  }
+  .ellipse-1-copy-holder {
+    padding: 8px 0;
+    position: relative;
+    width: 35px;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 17.73px/17.75px;
+    -moz-border-radius: 17.73px/17.75px;
+    border-radius: 17.73px/17.75px;
+  }
+  .ellipse-1-copy-2-holder {
+    padding: 7px 0;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 17.75px;
+    -moz-border-radius: 17.75px;
+    border-radius: 17.75px;
+  }
+  .ellipse-1-copy-3-holder {
+    padding: 6px 0 10px;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 17.75px;
+    -moz-border-radius: 17.75px;
+    border-radius: 17.75px;
+  }
+  .layer-81 {
+    display: block;
+    margin: 0 auto;
+  }
+  .ellipse-1-copy-4-holder {
+    padding: 7px 0 6px;
+    position: relative;
+    width: 35px;
+    border: 2px solid #ffffff; 
+    -webkit-border-radius: 17.75px;
+    -moz-border-radius: 17.75px;
+    border-radius: 17.75px;
+  }
+
+  /* navbar downside image and text  */
+
+  .footer {
+    background: url(images/layer_76.png) no-repeat center bottom;
+  }
+  .text-30 {
+    letter-spacing: 0;
+    line-height: 1.2;
+  }
+
+  /* projects section css  */
+
+  .col-3 {
+    background: url(images/layer_16.jpg) no-repeat;
+  }
+
+  .group-2 {
+    padding: 322px 15px 27px;
+    background: url(images/layer_18.jpg) no-repeat;
+  }
+  .group-3 {
+    padding: 322px 15px 27px;
+    background: url(images/layer_18_2.jpg) no-repeat;
+    /* opacity:0; */
+  }
+  .group-4 {
+    padding: 322px 15px 27px;
+    background: url(images/layer_18_3.jpg) no-repeat;
+  }
+
+  /* what we do section starts  */
+
+  .layer-26 {
+    margin-top: 154px !important;
+  }
+  .layer-25 {
+    display: block;
+    margin: 93px auto 0;
+  }
+  .layer-34 {
+    margin-top: 150px !important;
+  }
